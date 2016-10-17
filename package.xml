@@ -8,6 +8,7 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AddNew__c</members>
         <members>Add__c</members>
         <name>CustomObject</name>
     </types>
